@@ -12,4 +12,13 @@
     {"key":"喇叭","name":"🔞喇叭","type":0,"style":{"type":"rect","ratio":1.485},"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1},
     {"key": "www.caoliuzyw.com","name":"🔞草榴","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/?ac=list","playurl":"https://jx.caoliuzywcdnjx.com:188/m3u8.php?url=","searchable":1,"filterable":1},
     {"key":"性南国","name":"🔞南国","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}
-    ]}
+    ],
+"lives": [{"name":"电视live","type":0,"playerType":1,"url":"https://codeberg.org/xya168/live/raw/branch/main/live.txt"}]
+
+
+
+}
+
+
+
+
