@@ -45,7 +45,7 @@
 
 {"key":"js蜻蜓FM","name":"🎧 蜻蜓FM","type":3,"api":"https://git.gra.phite.ro/alantang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://git.gra.phite.ro/alantang/dr_py/raw/branch/main/js/蜻蜓FM.js"},
 {"key":"河马短剧","name":"☪河马短剧","type":3,"api":"csp_XYQHiker","jar":"https://git.acwing.com/gonglijun010/ysc6/-/raw/main/xmbjm.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/gonglijun010/ysc6/-/raw/main/lib/河马短剧.json"},
-//{"key":"js星芽短剧","name":"☪星芽短剧","type":3,"api":"https://git.acwing.com/gggwang/gggwang/-/raw/main/LIBS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/gggwang/gggwang/-/raw/main/JS/星芽短剧.js"},
+{"key":"js星芽短剧","name":"☪星芽短剧","type":3,"api":"https://git.acwing.com/gggwang/gggwang/-/raw/main/LIBS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/gggwang/gggwang/-/raw/main/JS/星芽短剧.js"},
 {"key":"js蓝莓短剧","name":"♨️蓝莓短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://d.kstore.dev/download/12194/TV/lanmei.js"},
 {"key":"旺旺短剧","name":"☪️旺旺短剧","type":1,"api":"http://zhangqun1818.serv00.net:5052","style":{"type":"rect","ratio":1.33 },"searchable":1,"changeable":0},
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
