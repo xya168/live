@@ -7,4 +7,4 @@
 
 ![图片显示](./live.jpeg)   
 
-#[打开live.json](https://raw.githubusercontent.com/xya168/live/refs/heads/main/live.json)
+#[打开live.json](https://gh.llkk.cc/https://raw.githubusercontent.com/xya168/live/refs/heads/main/live.json)
